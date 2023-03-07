@@ -1,0 +1,54 @@
+#  The contact options.
+
+-
+  type: discord
+  icon: 'fa-brands fa-discord'
+-
+  type: github
+  icon: 'fab fa-github'
+-
+  type: telegram
+  icon: 'fa-brands fa-telegram'
+-
+  type: linkedin
+  icon: 'fa-brands fa-linkedin'
+-
+  type: reddit
+  icon: 'fa-brands fa-reddit'
+-
+  type: fiverr
+  icon: 'fa-solid fa-money-bill'
+-
+  type: youtube
+  icon: 'fa-brands fa-youtube'
+-
+  type: facebook
+  icon: 'fa-brands fa-facebook'
+-
+  type: twitter
+  icon: 'fab fa-twitter'
+-
+  type: steam
+  icon: 'fa-brands fa-steam'
+-
+  type: email
+  icon: 'fas fa-envelope'
+  noblank: true            # open link in current tab
+-
+  type: rss
+  icon: 'fas fa-rss'
+  noblank: true
+
+# Uncomment and complete the url below to enable more contact options
+#
+# - type: mastodon
+#   icon: 'fab fa-mastodon'   # icons powered by <https://fontawesome.com/>
+#   url:  ''                  # Fill with your Mastodon account page, rel="me" will be applied for verification
+#
+# - type: linkedin
+#   icon: 'fab fa-linkedin'   # icons powered by <https://fontawesome.com/>
+#   url:  ''                  # Fill with your Linkedin homepage
+#
+# - type: stack-overflow
+#   icon: 'fab fa-stack-overflow'
+#   url:  ''                  # Fill with your stackoverflow homepage
