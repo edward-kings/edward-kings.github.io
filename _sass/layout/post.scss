@@ -164,9 +164,9 @@ h1 + .post-meta {
     color: var(--link-color);
 
     &:hover {
-      background: #2a408e;
-      color: #ffffff;
-      border-color: #2a408e;
+      background: #eeeeee;
+      color: var(--link-color);
+      border-color: #eeeeee;
     }
 
     &.disabled {
